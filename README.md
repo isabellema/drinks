@@ -1,5 +1,7 @@
 # Drinks menu
 
+This project is forked from [timgurto](https://github.com/timgurto)'s [drinks](https://github.com/timgurto/drinks) project on github.
+
 The compiled document is at [drinks.pdf](drinks.pdf).
 
 ## 0. Install LateX (instructions for Mac users)
